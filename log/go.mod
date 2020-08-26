@@ -1,3 +1,3 @@
-module gitlab-ce.alauda.cn/daniel/gomod/log
+module github.com/danielfbm/gomod/log
 
 go 1.14

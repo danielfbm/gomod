@@ -1,3 +1,3 @@
-module gitlab-ce.alauda.cn/daniel/gomod/exec
+module github.com/danielfbm/gomod/exec
 
 go 1.14
